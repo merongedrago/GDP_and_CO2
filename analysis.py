@@ -8,6 +8,7 @@ columns = [
     "Mortality rate, infant (per 1,000 live births)",
     "GDP per capita (constant 2010 US$)",
     "Country Name",
+    "Women's share of population ages 15+ living with HIV (%)",
 ]
 Dataset = Dataset[columns]
 
